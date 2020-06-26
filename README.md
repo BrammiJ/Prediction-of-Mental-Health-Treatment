@@ -18,7 +18,7 @@ Applied 6 Classification algorithms using sklearn library: <br>
  <li>Decision Trees </li><br>
  <li>Random Forest </li><br>
  <li>K Nearest Neighbors </li><br>
- <li>Support Vector Claasifier </li><br>
+ <li>Support Vector Classifier </li><br>
  <li>Guassian Naive Bayes</li><br>
 </ol><br>
 Calculated and visualised the confusion matrix <br> <br>
