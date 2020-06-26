@@ -10,8 +10,8 @@ Editted the column names from survey questions to easily usable labels <br>
 Removed superfluous data by dropping columns that wouldn't be used in modelling <br>
 Treated missing values and anomalies <br>
 Saved the clean data as a separate csv file for modelling <br>
-Performed Label Encoding<br>
-<b> ML Algorithms</b> <br>
+Performed Label Encoding<br><br>
+<b> ML Algorithms</b> <br><br>
 Applied 6 Classification algorithms using sklearn library: <br>
 <ol>
   <li>Logistic Regression</li><br>
@@ -20,7 +20,7 @@ Applied 6 Classification algorithms using sklearn library: <br>
  <li>K Nearest Neighbors </li><br>
  <li>Support Vector Claasifier </li><br>
  <li>Guassian Naive Bayes</li><br>
-</ol>
-Calculated and visualised the confusion matrix <br>
-Chose the best model using AdaBoostClassifier and printed the predictions <br>
+</ol><br>
+Calculated and visualised the confusion matrix <br> <br>
+Chose the best model using AdaBoostClassifier and printed the predictions <br><br>
 Saved the predictions with the index number as a separate csv file
